@@ -1,0 +1,12 @@
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/bin/Debug/net6.0/HR.Core.deps.json
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/bin/Debug/net6.0/HR.Core.dll
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/bin/Debug/net6.0/HR.Core.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/HR.Core.csproj.AssemblyReference.cache
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/HR.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/HR.Core.AssemblyInfoInputs.cache
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/HR.Core.AssemblyInfo.cs
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/HR.Core.csproj.CoreCompileInputs.cache
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/HR.Core.dll
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/refint/HR.Core.dll
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/HR.Core.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HR.Core/obj/Debug/net6.0/ref/HR.Core.dll

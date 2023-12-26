@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\Exceptions\" />
+    <None Remove="Utilities\Extentions\" />
+    <None Remove="Utilities\Helper\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\Exceptions\" />
+    <Folder Include="Utilities\Extentions\" />
+    <Folder Include="Utilities\Helper\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HR.Access\HR.DataAccess.csproj" />
+  </ItemGroup>
+</Project>

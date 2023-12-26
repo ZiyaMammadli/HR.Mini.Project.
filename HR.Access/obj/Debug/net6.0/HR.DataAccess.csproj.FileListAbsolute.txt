@@ -1,0 +1,15 @@
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/bin/Debug/net6.0/HR.DataAccess.deps.json
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/bin/Debug/net6.0/HR.DataAccess.dll
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/bin/Debug/net6.0/HR.DataAccess.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/bin/Debug/net6.0/HR.Core.dll
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/bin/Debug/net6.0/HR.Core.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/HR.DataAccess.csproj.AssemblyReference.cache
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/HR.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/HR.DataAccess.AssemblyInfoInputs.cache
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/HR.DataAccess.AssemblyInfo.cs
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/HR.DataAccess.csproj.CoreCompileInputs.cache
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/HR.DataAccess.csproj.CopyComplete
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/HR.DataAccess.dll
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/refint/HR.DataAccess.dll
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/HR.DataAccess.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HR.Access/obj/Debug/net6.0/ref/HR.DataAccess.dll

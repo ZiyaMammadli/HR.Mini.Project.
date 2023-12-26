@@ -1,0 +1,17 @@
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/bin/Debug/net6.0/HR.Business.deps.json
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/bin/Debug/net6.0/HR.Business.dll
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/bin/Debug/net6.0/HR.Business.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/bin/Debug/net6.0/HR.Core.dll
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/bin/Debug/net6.0/HR.DataAccess.dll
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/bin/Debug/net6.0/HR.DataAccess.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/bin/Debug/net6.0/HR.Core.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/HR.Business.csproj.AssemblyReference.cache
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/HR.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/HR.Business.AssemblyInfoInputs.cache
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/HR.Business.AssemblyInfo.cs
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/HR.Business.csproj.CoreCompileInputs.cache
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/HR.Business.csproj.CopyComplete
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/HR.Business.dll
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/refint/HR.Business.dll
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/HR.Business.pdb
+/Users/ziyamemmedli/Projects/HR.Core/HRBusiness/obj/Debug/net6.0/ref/HR.Business.dll
